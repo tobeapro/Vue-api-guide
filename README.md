@@ -1,3 +1,5 @@
+#### ![Vue](https://img.shields.io/badge/Vue-%402.6.10-green)
+
 > Vue定义了一些API，然后把它放在Vue对象上方便在Vue项目中全局使用
 
 
